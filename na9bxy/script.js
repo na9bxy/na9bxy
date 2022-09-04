@@ -1,0 +1,1 @@
+document.getElementById("inneriframe").contentDocument.body.style.fontFamily = "Kanit";
